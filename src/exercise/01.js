@@ -1,4 +1,4 @@
-// Context Module Functions
+// Context Module Function
 // http://localhost:3000/isolated/exercise/01.js
 
 import {dequal} from 'dequal'
