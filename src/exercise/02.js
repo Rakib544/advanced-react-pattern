@@ -55,4 +55,4 @@ eslint
   no-unused-vars: "off",
 */
 
-// lesson 105 complete
+// lesson 105 completed
