@@ -1,5 +1,5 @@
-import './switch.styles.css'
 import * as React from 'react'
+import './switch.styles.css'
 
 // STOP! You should not have to change anything in this file to
 // make it through the workshop. If tests are failing because of
@@ -22,6 +22,8 @@ class Switch extends React.Component {
       onClick,
       ...props
     } = this.props
+
+    console.log(this.props)
     const btnClassName = [
       className,
       'toggle-btn',
