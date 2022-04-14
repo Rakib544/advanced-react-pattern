@@ -1,4 +1,4 @@
-// Control Propss
+// Control Props
 // http://localhost:3000/isolated/exercise/06.js
 
 import * as React from 'react'
